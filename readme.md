@@ -1,4 +1,4 @@
-# Tema 2: Quick Time
+# Quick Time
 
 ## Descriere
 
