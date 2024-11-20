@@ -1,6 +1,6 @@
 #include <SPI.h>
 #include <LiquidCrystal.h>
-#include <Servo.h>  // Include Servo library
+#include <Servo.h> 
 #include <Arduino.h>
 #include <Wire.h>
 
