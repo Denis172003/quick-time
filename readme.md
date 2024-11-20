@@ -41,6 +41,10 @@ Servomotorul va incepe de la pozitia de 0 grade si se va deplasa in sens antiora
 
 ![quick-time](https://github.com/user-attachments/assets/920b41d1-b69e-466a-8230-6e03d6441481)
 
+## Functionalitate montaj
+
+https://github.com/user-attachments/assets/53b7c999-682d-4146-9162-69cc824be385
+
 ## Schema electrica
 
 ![schema-thinkercad](https://github.com/user-attachments/assets/15ceb907-4629-4bbc-bbb2-40efc1c4392e)
@@ -48,8 +52,4 @@ Servomotorul va incepe de la pozitia de 0 grade si se va deplasa in sens antiora
 ![schema-electrica](https://github.com/user-attachments/assets/27bee766-50d9-4251-b0f6-993c28f64503)
 
 
-
-## Functionalitate montaj
-
-*TODO*
 
