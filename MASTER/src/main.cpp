@@ -15,12 +15,12 @@
 LiquidCrystal lcd(LCD_RS, LCD_EN, LCD_D4, LCD_D5, LCD_D6, LCD_D7);
 
 // Servo setup
-Servo gameTimerServo;  // Create Servo object
-const int servoPin = 9;  // Servo motor pin
-const int servoMaxAngle = 180;  // Max servo angle
-unsigned long gameStartTime = 0;  // Store the game start time
-unsigned long gameDuration = 30000;  // Game duration (30 seconds)
-bool gameStarted = false;  // Flag to track if the game has started
+Servo gameTimerServo;  
+const int servoPin = 9;  
+const int servoMaxAngle = 180; 
+unsigned long gameStartTime = 0;  
+unsigned long gameDuration = 30000;  
+bool gameStarted = false;  
 
 char receiveFromSlave();
 
@@ -103,7 +103,7 @@ void loop() {
 // Function to receive data from the slave over SPI
 char receiveFromSlave() {
   digitalWrite(SS, LOW);               // Begin SPI transaction
-  char data = SPI.transfer(0x00);      // Send dummy byte and receive response
-  digitalWrite(SS, HIGH);              // End SPI transaction
+  char data = SPI.transfer(0x00);      
+  digitalWrite(SS, HIGH);            
   return data;
 }
