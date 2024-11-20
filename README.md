@@ -37,7 +37,7 @@ Servomotorul va incepe de la pozitia de 0 grade si se va deplasa in sens antiora
 - <b>Fire de legatura<b>
 - <b>2x Arduino Uno<b>
 
-## Poze ale setup-ului fizic
+## Poze setup fizic
 
 ![quick-time](https://github.com/user-attachments/assets/920b41d1-b69e-466a-8230-6e03d6441481)
 
