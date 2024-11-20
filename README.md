@@ -30,9 +30,9 @@ In aceasta tema, se va crea un joc de reflex competitiv pentru doi jucatori, in 
 - **<b>6x LED-uri (2 grupuri de câte 3 leduri, în cadrul unui grup trebuie să avem culori diferite)<b>** 
 - **<b>2x LED RGB (1 pentru fiecare jucător)<b>** 
 - **<b>6x butoane (3 pentru fiecare jucător)<b>**
-- **<b>2 x Rezistoare 1kΩ<b>**
-- **<b>x LCD<b>**
-- <b>1x servomotor<b>**
+- **<b>2x Rezistoare 1kΩ<b>**
+- **<b>1x LCD<b>**
+- **<b>1x servomotor<b>**
 - **<b>2x Breadboard<b>**
 - **<b>Fire de legatura<b>**
 - **<b>2x Arduino Uno<b>**
